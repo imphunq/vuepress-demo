@@ -35,10 +35,10 @@ module.exports = {
     ],
     sidebar: [
       {
-        title: 'Group 1',   // required
+        title: 'NodeJS',   // required
         path: '/foo/',      // optional, link of the title, which should be an absolute path and must exist
         collapsable: true, // optional, defaults to true
-        sidebarDepth: 2,    // optional, defaults to 1
+        sidebarDepth: 1,    // optional, defaults to 1
         children: [
           '/'
         ]
