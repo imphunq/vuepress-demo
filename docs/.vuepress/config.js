@@ -1,4 +1,5 @@
 module.exports = {
+  base: '/vuepress-demo/',
   title: 'My blogs write by VuePress',
   description: 'My description',
   head: [
